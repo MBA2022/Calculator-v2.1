@@ -27,3 +27,7 @@ This code is released under the MIT License. See LICENSE file for more details.
 ## Contributions
 
 Contributions to this project are welcome. If you find a bug or want to add a feature, please submit an issue or pull request.
+
+
+
+    All rights reserved © 2023 MBA {//}
